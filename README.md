@@ -1,7 +1,7 @@
 # Jogo da Vida de Conway's feito com Raylib | Game of Life de Conway's made with Raylib
 
-Uma implementação do Jogo da Vida de Conway utilizando Raylib para renderização gráfica. Esse projeto simula o famoso autômato celular, onde células em um grid evoluem a cada geração com base em regras simples.
+An implementation of Conway's Game of Life using Raylib for graphical rendering. This project simulates the famous cellular automaton, where cells in a grid evolve with each generation based on simple rules.
 
-  - Renderização rápida e eficiente com Raylib
-  - Possibilidade de pausar(Espaco)
-  - Interface minimalista e interativa
+- Fast and efficient rendering with Raylib
+- Possibility to pause (Space)
+- Minimalist and interactive interface
