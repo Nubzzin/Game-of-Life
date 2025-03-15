@@ -19,7 +19,7 @@ int main() {
 
     Simulation simulation(width, height, CELL_SIZE);
 
-    bool simulate = true;
+    bool simulate = false;
 
     // Main game loop
     while (!WindowShouldClose()) {    // Detect window close button or ESC key
