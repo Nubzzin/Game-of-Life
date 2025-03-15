@@ -5,3 +5,10 @@ An implementation of Conway's Game of Life using Raylib for graphical rendering.
 - Fast and efficient rendering with Raylib
 - Possibility to pause (Space)
 - Minimalist and interactive interface
+
+## ScreenShots:
+
+
+
+### Main Screen:
+![tela_index](screenshots/gameoflife.png)
